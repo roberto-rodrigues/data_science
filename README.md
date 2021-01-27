@@ -20,7 +20,7 @@ Com a formação na área de tecnologia da informação e um grande conhecimento
 
 ## Projetos:
 
-* **Analisando os dados do Airbnb:** https://bit.ly/2L2cMwy
+* **Analisando os dados do Airbnb:** 
 
 
 ---
